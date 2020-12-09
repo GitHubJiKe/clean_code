@@ -34,6 +34,95 @@ By 苑朋飞 {.text-intro}
 
 <slide class="bg-blue aligncenter">
 
+## 大佬怎么说？
+----
+
+<slide class="fullscreen">
+
+:::card
+
+![](https://www.stroustrup.com/Bjarne2018.jpg)
+
+---
+
+## Bjarne   Stroustrup  《C++程序设计语言》C++语言发明者
+
+我喜欢优雅和高效的代码，代码逻辑应当直接了当，叫缺陷难以隐藏；尽量减少依赖关系，使之便于维护；依据某种分层战略完善错误处理代码；性能调至最优，省得引诱别人做没规矩的优化，搞出一堆混乱来。整洁的代码只做好一件事。
+
+:::
+<slide class="fullscreen">
+
+:::card
+
+![](https://d1udkpklcxvaqz.cloudfront.net/sites/default/files/tuk_5010_r_-_2017-09-07_at_20-20-39_-_version_2.jpg)
+
+---
+
+## Grady Booch   《面向对象分析与设计》
+
+整洁的代码简单直接。整洁的代码如同优美的散文。整洁的代码从不隐藏设计者的意图，充满了干净利落的抽象和直截了当的控制语句。							
+
+:::
+<slide class="fullscreen">
+
+:::card
+
+![](https://images.findagrave.com/photos250/photos/2002/8/6076364_1010601429.jpg)
+
+---
+
+##  Dave Thomas   OTI 公司创始人   Eclipse战略教父
+
+整洁的代码应可由作者之外的开发者阅读和增补。它应当有单元测试和验收测试。它使用有意义的命名。它只提供一种而非多种做一件事的途径。它只有尽量少的依赖关系，且要明确的定义和提供清晰、尽量少的API。代码应通过其字面表达含义，因为不同的语言导致并非所有必需信息均可通过代码自身清晰表达。							
+
+:::
+<slide class="fullscreen">
+
+:::card
+
+##  Michael Feathers   《修改代码的艺术》
+
+我可以列出我留意到的整洁代码的所有特点，但其中有一条是根本性的。整洁代码总是看起来像是某位特别在意它的人写的。几乎没有改进的余地。代码作者什么都想到了，如果你企图改进它，总会回到原点，赞叹某人留给你的代码——全身心投入的某人留下的代码。
+
+
+---
+
+![](https://2020.agileindia.org/wp-content/uploads/2019/12/Michael-Feathers-360.jpg?x19440)						
+
+:::
+<slide class="fullscreen">
+
+:::card
+
+##  Ron Jeffries    《极限编程实施》《C#极限编程探险》
+
+消除重复和提高表达力让我在整洁代码方面获益良多，只要铭记这两点，改进脏代码时就会有大不同。
+减少重复代码，提高表达力，提早构建简单的抽象。这就是我写整洁代码的方法。
+
+
+---
+
+![](https://pbs.twimg.com/profile_images/1072295406355259393/Hqsx90JU.jpg)						
+
+:::
+<slide class="fullscreen">
+
+:::card
+
+##   Ward Cunningham   SmallTalk语言和面向对象思想领袖
+
+如果每个例程都让你感到深合己意，那就是整洁代码。如果代码让编程语言看起来像是专门解决那个问题而存在的，他就可以称得上漂亮的代码。
+
+
+---
+
+![](https://i.ytimg.com/vi/XqxwwuUdsp4/maxresdefault.jpg)						
+
+:::
+
+<slide class="bg-blue aligncenter">
+
+
 ## 非整洁 Vs 整洁  {.text-landing.text-shadow}
 ----
 
