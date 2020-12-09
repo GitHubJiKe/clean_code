@@ -119,6 +119,24 @@ By 苑朋飞 {.text-intro}
 ![](https://i.ytimg.com/vi/XqxwwuUdsp4/maxresdefault.jpg)						
 
 :::
+<slide class="fullscreen">
+
+:::card
+
+##   Dan Abramov   Redux作者 React核心团队成员
+
+写代码是一场旅行。回想一下，你编写第一行代码时的情形，到现在你所处的状态。我相信，当突然发现“抽取出一个函数”或“重构一个类的定义”是如何使问题由复杂变得简单的时候，你必定是开心的。一旦对自己的作品产生了自豪感，你就会热切地去追求代码的整洁。对此，你可以保持一段时间。
+
+但是不要止乎此，不要成为一个整洁代码的狂热分子。整洁代码并不是目的，它只是让我们从所面对系统的异常复杂性中解脱出来的方法。在你不是很明确一个改动会如何影响到整个代码库时，这信念可以作为一种安全防护机制。但是在未知的海洋里，你需要一个指南针。
+
+那就让整洁代码指引你吧，然后忘了它。
+
+
+---
+
+![](https://overreacted.io/static/profile-pic-c715447ce38098828758e525a1128b87.jpg)						
+
+:::
 
 <slide class="bg-blue aligncenter">
 
@@ -249,8 +267,19 @@ Dustin Boswell
 ## 链接分享
 ----
 
-[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+- [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
+
+
+- [goodbye-clean-code](https://overreacted.io/goodbye-clean-code/)
 
 <slide class="bg-blue aligncenter" >
 
-# Thanks
+## 引用
+----
+
+- 代码整洁之道
+- goodbye-clean-code
+
+<slide class="bg-blue aligncenter" >
+
+# 谢谢
