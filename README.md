@@ -10,6 +10,18 @@ By 苑朋飞 {.text-intro}
 
 <slide class="bg-blue aligncenter">
 
+## 引言
+----
+<slide class="bg-blue aligncenter">
+
+![](./public/wtf.png)
+
+<slide class="bg-blue aligncenter">
+
+![](./public/ProgramerCreateValues.png)
+
+<slide class="bg-blue aligncenter">
+
 ## 为什么分享这个主题 {.text-landing.text-shadow}
 ----
 
@@ -142,6 +154,13 @@ Dustin Boswell
 
 曾探
 :::
+
+<slide class="bg-blue aligncenter" >
+
+## 链接分享
+----
+
+[clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)
 
 <slide class="bg-blue aligncenter" >
 
